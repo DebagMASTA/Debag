@@ -1,4 +1,5 @@
-Debag
+#Debag
+
 Chainer implementation of 3D Unet for brain segmentaion.
 Training configs are written at configs/base.yml.
 Because of the limitation of GPU memory, we used patch based method.
